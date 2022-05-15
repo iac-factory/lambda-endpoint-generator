@@ -1,0 +1,3044 @@
+{
+    "a4b.amazonaws.com": {
+        "base": "a4b",
+        "fqdn": [
+            "a4b",
+            "amazonaws",
+            "com"
+        ],
+        "subdomain": "a4b",
+        "partials": [
+            "a4b"
+        ],
+        "domain": "a4b.amazonaws.com"
+    },
+    "access-analyzer.amazonaws.com": {
+        "base": "access",
+        "fqdn": [
+            "access-analyzer",
+            "amazonaws",
+            "com"
+        ],
+        "subdomain": "access-analyzer",
+        "partials": [
+            "access",
+            "analyzer"
+        ],
+        "domain": "access-analyzer.amazonaws.com"
+    },
+    "account.amazonaws.com": {
+        "base": "account",
+        "fqdn": [
+            "account",
+            "amazonaws",
+            "com"
+        ],
+        "subdomain": "account",
+        "partials": [
+            "account"
+        ],
+        "domain": "account.amazonaws.com"
+    },
+    "acm-pca.amazonaws.com": {
+        "base": "acm",
+        "fqdn": [
+            "acm-pca",
+            "amazonaws",
+            "com"
+        ],
+        "subdomain": "acm-pca",
+        "partials": [
+            "acm",
+            "pca"
+        ],
+        "domain": "acm-pca.amazonaws.com"
+    },
+    "acm.amazonaws.com": {
+        "base": "acm",
+        "fqdn": [
+            "acm",
+            "amazonaws",
+            "com"
+        ],
+        "subdomain": "acm",
+        "partials": [
+            "acm"
+        ],
+        "domain": "acm.amazonaws.com"
+    },
+    "airflow-env.amazonaws.com": {
+        "base": "airflow",
+        "fqdn": [
+            "airflow-env",
+            "amazonaws",
+            "com"
+        ],
+        "subdomain": "airflow-env",
+        "partials": [
+            "airflow",
+            "env"
+        ],
+        "domain": "airflow-env.amazonaws.com"
+    },
+    "airflow.amazonaws.com": {
+        "base": "airflow",
+        "fqdn": [
+            "airflow",
+            "amazonaws",
+            "com"
+        ],
+        "subdomain": "airflow",
+        "partials": [
+            "airflow"
+        ],
+        "domain": "airflow.amazonaws.com"
+    },
+    "alexa-appkit.amazon.com": {
+        "base": "alexa",
+        "fqdn": [
+            "alexa-appkit",
+            "amazon",
+            "com"
+        ],
+        "subdomain": "alexa-appkit",
+        "partials": [
+            "alexa",
+            "appkit"
+        ],
+        "domain": "alexa-appkit.amazon.com"
+    },
+    "alexa-connectedhome.amazon.com": {
+        "base": "alexa",
+        "fqdn": [
+            "alexa-connectedhome",
+            "amazon",
+            "com"
+        ],
+        "subdomain": "alexa-connectedhome",
+        "partials": [
+            "alexa",
+            "connectedhome"
+        ],
+        "domain": "alexa-connectedhome.amazon.com"
+    },
+    "amazonmq.amazonaws.com": {
+        "base": "amazonmq",
+        "fqdn": [
+            "amazonmq",
+            "amazonaws",
+            "com"
+        ],
+        "subdomain": "amazonmq",
+        "partials": [
+            "amazonmq"
+        ],
+        "domain": "amazonmq.amazonaws.com"
+    },
+    "amplify.amazonaws.com": {
+        "base": "amplify",
+        "fqdn": [
+            "amplify",
+            "amazonaws",
+            "com"
+        ],
+        "subdomain": "amplify",
+        "partials": [
+            "amplify"
+        ],
+        "domain": "amplify.amazonaws.com"
+    },
+    "apigateway.amazonaws.com": {
+        "base": "apigateway",
+        "fqdn": [
+            "apigateway",
+            "amazonaws",
+            "com"
+        ],
+        "subdomain": "apigateway",
+        "partials": [
+            "apigateway"
+        ],
+        "domain": "apigateway.amazonaws.com"
+    },
+    "appflow.amazonaws.com": {
+        "base": "appflow",
+        "fqdn": [
+            "appflow",
+            "amazonaws",
+            "com"
+        ],
+        "subdomain": "appflow",
+        "partials": [
+            "appflow"
+        ],
+        "domain": "appflow.amazonaws.com"
+    },
+    "application-autoscaling.amazonaws.com": {
+        "base": "application",
+        "fqdn": [
+            "application-autoscaling",
+            "amazonaws",
+            "com"
+        ],
+        "subdomain": "application-autoscaling",
+        "partials": [
+            "application",
+            "autoscaling"
+        ],
+        "domain": "application-autoscaling.amazonaws.com"
+    },
+    "application-insights.amazonaws.com": {
+        "base": "application",
+        "fqdn": [
+            "application-insights",
+            "amazonaws",
+            "com"
+        ],
+        "subdomain": "application-insights",
+        "partials": [
+            "application",
+            "insights"
+        ],
+        "domain": "application-insights.amazonaws.com"
+    },
+    "appstream.amazonaws.com": {
+        "base": "appstream",
+        "fqdn": [
+            "appstream",
+            "amazonaws",
+            "com"
+        ],
+        "subdomain": "appstream",
+        "partials": [
+            "appstream"
+        ],
+        "domain": "appstream.amazonaws.com"
+    },
+    "appstream.application-autoscaling.amazonaws.com": {
+        "base": "appstream",
+        "fqdn": [
+            "appstream",
+            "application-autoscaling",
+            "amazonaws",
+            "com"
+        ],
+        "subdomain": "appstream",
+        "partials": [
+            "appstream"
+        ],
+        "domain": "appstream.application-autoscaling.amazonaws.com"
+    },
+    "appsync.amazonaws.com": {
+        "base": "appsync",
+        "fqdn": [
+            "appsync",
+            "amazonaws",
+            "com"
+        ],
+        "subdomain": "appsync",
+        "partials": [
+            "appsync"
+        ],
+        "domain": "appsync.amazonaws.com"
+    },
+    "athena.amazonaws.com": {
+        "base": "athena",
+        "fqdn": [
+            "athena",
+            "amazonaws",
+            "com"
+        ],
+        "subdomain": "athena",
+        "partials": [
+            "athena"
+        ],
+        "domain": "athena.amazonaws.com"
+    },
+    "automation.amazonaws.com": {
+        "base": "automation",
+        "fqdn": [
+            "automation",
+            "amazonaws",
+            "com"
+        ],
+        "subdomain": "automation",
+        "partials": [
+            "automation"
+        ],
+        "domain": "automation.amazonaws.com"
+    },
+    "autoscaling.amazonaws.com": {
+        "base": "autoscaling",
+        "fqdn": [
+            "autoscaling",
+            "amazonaws",
+            "com"
+        ],
+        "subdomain": "autoscaling",
+        "partials": [
+            "autoscaling"
+        ],
+        "domain": "autoscaling.amazonaws.com"
+    },
+    "aws-artifact-account-sync.amazonaws.com": {
+        "base": "aws",
+        "fqdn": [
+            "aws-artifact-account-sync",
+            "amazonaws",
+            "com"
+        ],
+        "subdomain": "aws-artifact-account-sync",
+        "partials": [
+            "aws",
+            "artifact",
+            "account",
+            "sync"
+        ],
+        "domain": "aws-artifact-account-sync.amazonaws.com"
+    },
+    "backup.amazonaws.com": {
+        "base": "backup",
+        "fqdn": [
+            "backup",
+            "amazonaws",
+            "com"
+        ],
+        "subdomain": "backup",
+        "partials": [
+            "backup"
+        ],
+        "domain": "backup.amazonaws.com"
+    },
+    "batch.amazonaws.com": {
+        "base": "batch",
+        "fqdn": [
+            "batch",
+            "amazonaws",
+            "com"
+        ],
+        "subdomain": "batch",
+        "partials": [
+            "batch"
+        ],
+        "domain": "batch.amazonaws.com"
+    },
+    "billingconsole.amazonaws.com": {
+        "base": "billingconsole",
+        "fqdn": [
+            "billingconsole",
+            "amazonaws",
+            "com"
+        ],
+        "subdomain": "billingconsole",
+        "partials": [
+            "billingconsole"
+        ],
+        "domain": "billingconsole.amazonaws.com"
+    },
+    "braket.amazonaws.com": {
+        "base": "braket",
+        "fqdn": [
+            "braket",
+            "amazonaws",
+            "com"
+        ],
+        "subdomain": "braket",
+        "partials": [
+            "braket"
+        ],
+        "domain": "braket.amazonaws.com"
+    },
+    "budgets.amazonaws.com": {
+        "base": "budgets",
+        "fqdn": [
+            "budgets",
+            "amazonaws",
+            "com"
+        ],
+        "subdomain": "budgets",
+        "partials": [
+            "budgets"
+        ],
+        "domain": "budgets.amazonaws.com"
+    },
+    "ce.amazonaws.com": {
+        "base": "ce",
+        "fqdn": [
+            "ce",
+            "amazonaws",
+            "com"
+        ],
+        "subdomain": "ce",
+        "partials": [
+            "ce"
+        ],
+        "domain": "ce.amazonaws.com"
+    },
+    "channels.lex.amazonaws.com": {
+        "base": "channels",
+        "fqdn": [
+            "channels",
+            "lex",
+            "amazonaws",
+            "com"
+        ],
+        "subdomain": "channels",
+        "partials": [
+            "channels"
+        ],
+        "domain": "channels.lex.amazonaws.com"
+    },
+    "chatbot.amazonaws.com": {
+        "base": "chatbot",
+        "fqdn": [
+            "chatbot",
+            "amazonaws",
+            "com"
+        ],
+        "subdomain": "chatbot",
+        "partials": [
+            "chatbot"
+        ],
+        "domain": "chatbot.amazonaws.com"
+    },
+    "chime.amazonaws.com": {
+        "base": "chime",
+        "fqdn": [
+            "chime",
+            "amazonaws",
+            "com"
+        ],
+        "subdomain": "chime",
+        "partials": [
+            "chime"
+        ],
+        "domain": "chime.amazonaws.com"
+    },
+    "cloud9.amazonaws.com": {
+        "base": "cloud9",
+        "fqdn": [
+            "cloud9",
+            "amazonaws",
+            "com"
+        ],
+        "subdomain": "cloud9",
+        "partials": [
+            "cloud9"
+        ],
+        "domain": "cloud9.amazonaws.com"
+    },
+    "clouddirectory.amazonaws.com": {
+        "base": "clouddirectory",
+        "fqdn": [
+            "clouddirectory",
+            "amazonaws",
+            "com"
+        ],
+        "subdomain": "clouddirectory",
+        "partials": [
+            "clouddirectory"
+        ],
+        "domain": "clouddirectory.amazonaws.com"
+    },
+    "cloudformation.amazonaws.com": {
+        "base": "cloudformation",
+        "fqdn": [
+            "cloudformation",
+            "amazonaws",
+            "com"
+        ],
+        "subdomain": "cloudformation",
+        "partials": [
+            "cloudformation"
+        ],
+        "domain": "cloudformation.amazonaws.com"
+    },
+    "cloudfront.amazonaws.com": {
+        "base": "cloudfront",
+        "fqdn": [
+            "cloudfront",
+            "amazonaws",
+            "com"
+        ],
+        "subdomain": "cloudfront",
+        "partials": [
+            "cloudfront"
+        ],
+        "domain": "cloudfront.amazonaws.com"
+    },
+    "cloudhsm.amazonaws.com": {
+        "base": "cloudhsm",
+        "fqdn": [
+            "cloudhsm",
+            "amazonaws",
+            "com"
+        ],
+        "subdomain": "cloudhsm",
+        "partials": [
+            "cloudhsm"
+        ],
+        "domain": "cloudhsm.amazonaws.com"
+    },
+    "cloudsearch.amazonaws.com": {
+        "base": "cloudsearch",
+        "fqdn": [
+            "cloudsearch",
+            "amazonaws",
+            "com"
+        ],
+        "subdomain": "cloudsearch",
+        "partials": [
+            "cloudsearch"
+        ],
+        "domain": "cloudsearch.amazonaws.com"
+    },
+    "cloudtrail.amazonaws.com": {
+        "base": "cloudtrail",
+        "fqdn": [
+            "cloudtrail",
+            "amazonaws",
+            "com"
+        ],
+        "subdomain": "cloudtrail",
+        "partials": [
+            "cloudtrail"
+        ],
+        "domain": "cloudtrail.amazonaws.com"
+    },
+    "cloudwatch-crossaccount.amazonaws.com": {
+        "base": "cloudwatch",
+        "fqdn": [
+            "cloudwatch-crossaccount",
+            "amazonaws",
+            "com"
+        ],
+        "subdomain": "cloudwatch-crossaccount",
+        "partials": [
+            "cloudwatch",
+            "crossaccount"
+        ],
+        "domain": "cloudwatch-crossaccount.amazonaws.com"
+    },
+    "cloudwatch.amazonaws.com": {
+        "base": "cloudwatch",
+        "fqdn": [
+            "cloudwatch",
+            "amazonaws",
+            "com"
+        ],
+        "subdomain": "cloudwatch",
+        "partials": [
+            "cloudwatch"
+        ],
+        "domain": "cloudwatch.amazonaws.com"
+    },
+    "codebuild.amazonaws.com": {
+        "base": "codebuild",
+        "fqdn": [
+            "codebuild",
+            "amazonaws",
+            "com"
+        ],
+        "subdomain": "codebuild",
+        "partials": [
+            "codebuild"
+        ],
+        "domain": "codebuild.amazonaws.com"
+    },
+    "codecommit.amazonaws.com": {
+        "base": "codecommit",
+        "fqdn": [
+            "codecommit",
+            "amazonaws",
+            "com"
+        ],
+        "subdomain": "codecommit",
+        "partials": [
+            "codecommit"
+        ],
+        "domain": "codecommit.amazonaws.com"
+    },
+    "codedeploy.${aws::region}.amazonaws.com": {
+        "base": "codedeploy",
+        "fqdn": [
+            "codedeploy",
+            "${aws::region}",
+            "amazonaws",
+            "com"
+        ],
+        "subdomain": "codedeploy",
+        "partials": [
+            "codedeploy"
+        ],
+        "domain": "codedeploy.${aws::region}.amazonaws.com"
+    },
+    "codedeploy.amazonaws.com": {
+        "base": "codedeploy",
+        "fqdn": [
+            "codedeploy",
+            "amazonaws",
+            "com"
+        ],
+        "subdomain": "codedeploy",
+        "partials": [
+            "codedeploy"
+        ],
+        "domain": "codedeploy.amazonaws.com"
+    },
+    "codeguru-reviewer.amazonaws.com": {
+        "base": "codeguru",
+        "fqdn": [
+            "codeguru-reviewer",
+            "amazonaws",
+            "com"
+        ],
+        "subdomain": "codeguru-reviewer",
+        "partials": [
+            "codeguru",
+            "reviewer"
+        ],
+        "domain": "codeguru-reviewer.amazonaws.com"
+    },
+    "codepipeline.amazonaws.com": {
+        "base": "codepipeline",
+        "fqdn": [
+            "codepipeline",
+            "amazonaws",
+            "com"
+        ],
+        "subdomain": "codepipeline",
+        "partials": [
+            "codepipeline"
+        ],
+        "domain": "codepipeline.amazonaws.com"
+    },
+    "codestar-notifications.amazonaws.com": {
+        "base": "codestar",
+        "fqdn": [
+            "codestar-notifications",
+            "amazonaws",
+            "com"
+        ],
+        "subdomain": "codestar-notifications",
+        "partials": [
+            "codestar",
+            "notifications"
+        ],
+        "domain": "codestar-notifications.amazonaws.com"
+    },
+    "codestar.amazonaws.com": {
+        "base": "codestar",
+        "fqdn": [
+            "codestar",
+            "amazonaws",
+            "com"
+        ],
+        "subdomain": "codestar",
+        "partials": [
+            "codestar"
+        ],
+        "domain": "codestar.amazonaws.com"
+    },
+    "cognito-identity.amazonaws.com": {
+        "base": "cognito",
+        "fqdn": [
+            "cognito-identity",
+            "amazonaws",
+            "com"
+        ],
+        "subdomain": "cognito-identity",
+        "partials": [
+            "cognito",
+            "identity"
+        ],
+        "domain": "cognito-identity.amazonaws.com"
+    },
+    "cognito-idp.amazonaws.com": {
+        "base": "cognito",
+        "fqdn": [
+            "cognito-idp",
+            "amazonaws",
+            "com"
+        ],
+        "subdomain": "cognito-idp",
+        "partials": [
+            "cognito",
+            "idp"
+        ],
+        "domain": "cognito-idp.amazonaws.com"
+    },
+    "cognito-sync.amazonaws.com": {
+        "base": "cognito",
+        "fqdn": [
+            "cognito-sync",
+            "amazonaws",
+            "com"
+        ],
+        "subdomain": "cognito-sync",
+        "partials": [
+            "cognito",
+            "sync"
+        ],
+        "domain": "cognito-sync.amazonaws.com"
+    },
+    "comprehend.amazonaws.com": {
+        "base": "comprehend",
+        "fqdn": [
+            "comprehend",
+            "amazonaws",
+            "com"
+        ],
+        "subdomain": "comprehend",
+        "partials": [
+            "comprehend"
+        ],
+        "domain": "comprehend.amazonaws.com"
+    },
+    "config-conforms.amazonaws.com": {
+        "base": "config",
+        "fqdn": [
+            "config-conforms",
+            "amazonaws",
+            "com"
+        ],
+        "subdomain": "config-conforms",
+        "partials": [
+            "config",
+            "conforms"
+        ],
+        "domain": "config-conforms.amazonaws.com"
+    },
+    "config-multiaccountsetup.amazonaws.com": {
+        "base": "config",
+        "fqdn": [
+            "config-multiaccountsetup",
+            "amazonaws",
+            "com"
+        ],
+        "subdomain": "config-multiaccountsetup",
+        "partials": [
+            "config",
+            "multiaccountsetup"
+        ],
+        "domain": "config-multiaccountsetup.amazonaws.com"
+    },
+    "config.amazonaws.com": {
+        "base": "config",
+        "fqdn": [
+            "config",
+            "amazonaws",
+            "com"
+        ],
+        "subdomain": "config",
+        "partials": [
+            "config"
+        ],
+        "domain": "config.amazonaws.com"
+    },
+    "connect.amazonaws.com": {
+        "base": "connect",
+        "fqdn": [
+            "connect",
+            "amazonaws",
+            "com"
+        ],
+        "subdomain": "connect",
+        "partials": [
+            "connect"
+        ],
+        "domain": "connect.amazonaws.com"
+    },
+    "continuousexport.discovery.amazonaws.com": {
+        "base": "continuousexport",
+        "fqdn": [
+            "continuousexport",
+            "discovery",
+            "amazonaws",
+            "com"
+        ],
+        "subdomain": "continuousexport",
+        "partials": [
+            "continuousexport"
+        ],
+        "domain": "continuousexport.discovery.amazonaws.com"
+    },
+    "costalerts.amazonaws.com": {
+        "base": "costalerts",
+        "fqdn": [
+            "costalerts",
+            "amazonaws",
+            "com"
+        ],
+        "subdomain": "costalerts",
+        "partials": [
+            "costalerts"
+        ],
+        "domain": "costalerts.amazonaws.com"
+    },
+    "custom-resource.application-autoscaling.amazonaws.com": {
+        "base": "custom",
+        "fqdn": [
+            "custom-resource",
+            "application-autoscaling",
+            "amazonaws",
+            "com"
+        ],
+        "subdomain": "custom-resource",
+        "partials": [
+            "custom",
+            "resource"
+        ],
+        "domain": "custom-resource.application-autoscaling.amazonaws.com"
+    },
+    "databrew.amazonaws.com": {
+        "base": "databrew",
+        "fqdn": [
+            "databrew",
+            "amazonaws",
+            "com"
+        ],
+        "subdomain": "databrew",
+        "partials": [
+            "databrew"
+        ],
+        "domain": "databrew.amazonaws.com"
+    },
+    "datapipeline.amazonaws.com": {
+        "base": "datapipeline",
+        "fqdn": [
+            "datapipeline",
+            "amazonaws",
+            "com"
+        ],
+        "subdomain": "datapipeline",
+        "partials": [
+            "datapipeline"
+        ],
+        "domain": "datapipeline.amazonaws.com"
+    },
+    "datasync.amazonaws.com": {
+        "base": "datasync",
+        "fqdn": [
+            "datasync",
+            "amazonaws",
+            "com"
+        ],
+        "subdomain": "datasync",
+        "partials": [
+            "datasync"
+        ],
+        "domain": "datasync.amazonaws.com"
+    },
+    "dax.amazonaws.com": {
+        "base": "dax",
+        "fqdn": [
+            "dax",
+            "amazonaws",
+            "com"
+        ],
+        "subdomain": "dax",
+        "partials": [
+            "dax"
+        ],
+        "domain": "dax.amazonaws.com"
+    },
+    "deeplens.amazonaws.com": {
+        "base": "deeplens",
+        "fqdn": [
+            "deeplens",
+            "amazonaws",
+            "com"
+        ],
+        "subdomain": "deeplens",
+        "partials": [
+            "deeplens"
+        ],
+        "domain": "deeplens.amazonaws.com"
+    },
+    "delivery.logs.amazonaws.com": {
+        "base": "delivery",
+        "fqdn": [
+            "delivery",
+            "logs",
+            "amazonaws",
+            "com"
+        ],
+        "subdomain": "delivery",
+        "partials": [
+            "delivery"
+        ],
+        "domain": "delivery.logs.amazonaws.com"
+    },
+    "detective.amazonaws.com": {
+        "base": "detective",
+        "fqdn": [
+            "detective",
+            "amazonaws",
+            "com"
+        ],
+        "subdomain": "detective",
+        "partials": [
+            "detective"
+        ],
+        "domain": "detective.amazonaws.com"
+    },
+    "diode.amazonaws.com": {
+        "base": "diode",
+        "fqdn": [
+            "diode",
+            "amazonaws",
+            "com"
+        ],
+        "subdomain": "diode",
+        "partials": [
+            "diode"
+        ],
+        "domain": "diode.amazonaws.com"
+    },
+    "directconnect.amazonaws.com": {
+        "base": "directconnect",
+        "fqdn": [
+            "directconnect",
+            "amazonaws",
+            "com"
+        ],
+        "subdomain": "directconnect",
+        "partials": [
+            "directconnect"
+        ],
+        "domain": "directconnect.amazonaws.com"
+    },
+    "discovery.amazonaws.com": {
+        "base": "discovery",
+        "fqdn": [
+            "discovery",
+            "amazonaws",
+            "com"
+        ],
+        "subdomain": "discovery",
+        "partials": [
+            "discovery"
+        ],
+        "domain": "discovery.amazonaws.com"
+    },
+    "dlm.amazonaws.com": {
+        "base": "dlm",
+        "fqdn": [
+            "dlm",
+            "amazonaws",
+            "com"
+        ],
+        "subdomain": "dlm",
+        "partials": [
+            "dlm"
+        ],
+        "domain": "dlm.amazonaws.com"
+    },
+    "dms.amazonaws.com": {
+        "base": "dms",
+        "fqdn": [
+            "dms",
+            "amazonaws",
+            "com"
+        ],
+        "subdomain": "dms",
+        "partials": [
+            "dms"
+        ],
+        "domain": "dms.amazonaws.com"
+    },
+    "ds.amazonaws.com": {
+        "base": "ds",
+        "fqdn": [
+            "ds",
+            "amazonaws",
+            "com"
+        ],
+        "subdomain": "ds",
+        "partials": [
+            "ds"
+        ],
+        "domain": "ds.amazonaws.com"
+    },
+    "dynamodb.amazonaws.com": {
+        "base": "dynamodb",
+        "fqdn": [
+            "dynamodb",
+            "amazonaws",
+            "com"
+        ],
+        "subdomain": "dynamodb",
+        "partials": [
+            "dynamodb"
+        ],
+        "domain": "dynamodb.amazonaws.com"
+    },
+    "dynamodb.application-autoscaling.amazonaws.com": {
+        "base": "dynamodb",
+        "fqdn": [
+            "dynamodb",
+            "application-autoscaling",
+            "amazonaws",
+            "com"
+        ],
+        "subdomain": "dynamodb",
+        "partials": [
+            "dynamodb"
+        ],
+        "domain": "dynamodb.application-autoscaling.amazonaws.com"
+    },
+    "ec.amazonaws.com": {
+        "base": "ec",
+        "fqdn": [
+            "ec",
+            "amazonaws",
+            "com"
+        ],
+        "subdomain": "ec",
+        "partials": [
+            "ec"
+        ],
+        "domain": "ec.amazonaws.com"
+    },
+    "ec2.amazonaws.com": {
+        "base": "ec2",
+        "fqdn": [
+            "ec2",
+            "amazonaws",
+            "com"
+        ],
+        "subdomain": "ec2",
+        "partials": [
+            "ec2"
+        ],
+        "domain": "ec2.amazonaws.com"
+    },
+    "ec2.application-autoscaling.amazonaws.com": {
+        "base": "ec2",
+        "fqdn": [
+            "ec2",
+            "application-autoscaling",
+            "amazonaws",
+            "com"
+        ],
+        "subdomain": "ec2",
+        "partials": [
+            "ec2"
+        ],
+        "domain": "ec2.application-autoscaling.amazonaws.com"
+    },
+    "ec2fleet.amazonaws.com": {
+        "base": "ec2fleet",
+        "fqdn": [
+            "ec2fleet",
+            "amazonaws",
+            "com"
+        ],
+        "subdomain": "ec2fleet",
+        "partials": [
+            "ec2fleet"
+        ],
+        "domain": "ec2fleet.amazonaws.com"
+    },
+    "ec2scheduled.amazonaws.com": {
+        "base": "ec2scheduled",
+        "fqdn": [
+            "ec2scheduled",
+            "amazonaws",
+            "com"
+        ],
+        "subdomain": "ec2scheduled",
+        "partials": [
+            "ec2scheduled"
+        ],
+        "domain": "ec2scheduled.amazonaws.com"
+    },
+    "ecr.amazonaws.com": {
+        "base": "ecr",
+        "fqdn": [
+            "ecr",
+            "amazonaws",
+            "com"
+        ],
+        "subdomain": "ecr",
+        "partials": [
+            "ecr"
+        ],
+        "domain": "ecr.amazonaws.com"
+    },
+    "ecs-tasks.amazonaws.com": {
+        "base": "ecs",
+        "fqdn": [
+            "ecs-tasks",
+            "amazonaws",
+            "com"
+        ],
+        "subdomain": "ecs-tasks",
+        "partials": [
+            "ecs",
+            "tasks"
+        ],
+        "domain": "ecs-tasks.amazonaws.com"
+    },
+    "ecs.amazonaws.com": {
+        "base": "ecs",
+        "fqdn": [
+            "ecs",
+            "amazonaws",
+            "com"
+        ],
+        "subdomain": "ecs",
+        "partials": [
+            "ecs"
+        ],
+        "domain": "ecs.amazonaws.com"
+    },
+    "ecs.application-autoscaling.amazonaws.com": {
+        "base": "ecs",
+        "fqdn": [
+            "ecs",
+            "application-autoscaling",
+            "amazonaws",
+            "com"
+        ],
+        "subdomain": "ecs",
+        "partials": [
+            "ecs"
+        ],
+        "domain": "ecs.application-autoscaling.amazonaws.com"
+    },
+    "edgelambda.amazonaws.com": {
+        "base": "edgelambda",
+        "fqdn": [
+            "edgelambda",
+            "amazonaws",
+            "com"
+        ],
+        "subdomain": "edgelambda",
+        "partials": [
+            "edgelambda"
+        ],
+        "domain": "edgelambda.amazonaws.com"
+    },
+    "eks-fargate-pods.amazonaws.com": {
+        "base": "eks",
+        "fqdn": [
+            "eks-fargate-pods",
+            "amazonaws",
+            "com"
+        ],
+        "subdomain": "eks-fargate-pods",
+        "partials": [
+            "eks",
+            "fargate",
+            "pods"
+        ],
+        "domain": "eks-fargate-pods.amazonaws.com"
+    },
+    "eks-fargate.amazonaws.com": {
+        "base": "eks",
+        "fqdn": [
+            "eks-fargate",
+            "amazonaws",
+            "com"
+        ],
+        "subdomain": "eks-fargate",
+        "partials": [
+            "eks",
+            "fargate"
+        ],
+        "domain": "eks-fargate.amazonaws.com"
+    },
+    "eks-nodegroup.amazonaws.com": {
+        "base": "eks",
+        "fqdn": [
+            "eks-nodegroup",
+            "amazonaws",
+            "com"
+        ],
+        "subdomain": "eks-nodegroup",
+        "partials": [
+            "eks",
+            "nodegroup"
+        ],
+        "domain": "eks-nodegroup.amazonaws.com"
+    },
+    "eks.amazonaws.com": {
+        "base": "eks",
+        "fqdn": [
+            "eks",
+            "amazonaws",
+            "com"
+        ],
+        "subdomain": "eks",
+        "partials": [
+            "eks"
+        ],
+        "domain": "eks.amazonaws.com"
+    },
+    "elasticache.amazonaws.com": {
+        "base": "elasticache",
+        "fqdn": [
+            "elasticache",
+            "amazonaws",
+            "com"
+        ],
+        "subdomain": "elasticache",
+        "partials": [
+            "elasticache"
+        ],
+        "domain": "elasticache.amazonaws.com"
+    },
+    "elasticbeanstalk.amazonaws.com": {
+        "base": "elasticbeanstalk",
+        "fqdn": [
+            "elasticbeanstalk",
+            "amazonaws",
+            "com"
+        ],
+        "subdomain": "elasticbeanstalk",
+        "partials": [
+            "elasticbeanstalk"
+        ],
+        "domain": "elasticbeanstalk.amazonaws.com"
+    },
+    "elasticfilesystem.amazonaws.com": {
+        "base": "elasticfilesystem",
+        "fqdn": [
+            "elasticfilesystem",
+            "amazonaws",
+            "com"
+        ],
+        "subdomain": "elasticfilesystem",
+        "partials": [
+            "elasticfilesystem"
+        ],
+        "domain": "elasticfilesystem.amazonaws.com"
+    },
+    "elasticloadbalancing.amazonaws.com": {
+        "base": "elasticloadbalancing",
+        "fqdn": [
+            "elasticloadbalancing",
+            "amazonaws",
+            "com"
+        ],
+        "subdomain": "elasticloadbalancing",
+        "partials": [
+            "elasticloadbalancing"
+        ],
+        "domain": "elasticloadbalancing.amazonaws.com"
+    },
+    "elasticmapreduce.amazonaws.com": {
+        "base": "elasticmapreduce",
+        "fqdn": [
+            "elasticmapreduce",
+            "amazonaws",
+            "com"
+        ],
+        "subdomain": "elasticmapreduce",
+        "partials": [
+            "elasticmapreduce"
+        ],
+        "domain": "elasticmapreduce.amazonaws.com"
+    },
+    "elastictranscoder.amazonaws.com": {
+        "base": "elastictranscoder",
+        "fqdn": [
+            "elastictranscoder",
+            "amazonaws",
+            "com"
+        ],
+        "subdomain": "elastictranscoder",
+        "partials": [
+            "elastictranscoder"
+        ],
+        "domain": "elastictranscoder.amazonaws.com"
+    },
+    "email.cognito-idp.amazonaws.com": {
+        "base": "email",
+        "fqdn": [
+            "email",
+            "cognito-idp",
+            "amazonaws",
+            "com"
+        ],
+        "subdomain": "email",
+        "partials": [
+            "email"
+        ],
+        "domain": "email.cognito-idp.amazonaws.com"
+    },
+    "emr-containers.amazonaws.com": {
+        "base": "emr",
+        "fqdn": [
+            "emr-containers",
+            "amazonaws",
+            "com"
+        ],
+        "subdomain": "emr-containers",
+        "partials": [
+            "emr",
+            "containers"
+        ],
+        "domain": "emr-containers.amazonaws.com"
+    },
+    "es.amazonaws.com": {
+        "base": "es",
+        "fqdn": [
+            "es",
+            "amazonaws",
+            "com"
+        ],
+        "subdomain": "es",
+        "partials": [
+            "es"
+        ],
+        "domain": "es.amazonaws.com"
+    },
+    "events.amazonaws.com": {
+        "base": "events",
+        "fqdn": [
+            "events",
+            "amazonaws",
+            "com"
+        ],
+        "subdomain": "events",
+        "partials": [
+            "events"
+        ],
+        "domain": "events.amazonaws.com"
+    },
+    "firehose.amazonaws.com": {
+        "base": "firehose",
+        "fqdn": [
+            "firehose",
+            "amazonaws",
+            "com"
+        ],
+        "subdomain": "firehose",
+        "partials": [
+            "firehose"
+        ],
+        "domain": "firehose.amazonaws.com"
+    },
+    "fis.amazonaws.com": {
+        "base": "fis",
+        "fqdn": [
+            "fis",
+            "amazonaws",
+            "com"
+        ],
+        "subdomain": "fis",
+        "partials": [
+            "fis"
+        ],
+        "domain": "fis.amazonaws.com"
+    },
+    "fms.amazonaws.com": {
+        "base": "fms",
+        "fqdn": [
+            "fms",
+            "amazonaws",
+            "com"
+        ],
+        "subdomain": "fms",
+        "partials": [
+            "fms"
+        ],
+        "domain": "fms.amazonaws.com"
+    },
+    "forecast.amazonaws.com": {
+        "base": "forecast",
+        "fqdn": [
+            "forecast",
+            "amazonaws",
+            "com"
+        ],
+        "subdomain": "forecast",
+        "partials": [
+            "forecast"
+        ],
+        "domain": "forecast.amazonaws.com"
+    },
+    "freertos.amazonaws.com": {
+        "base": "freertos",
+        "fqdn": [
+            "freertos",
+            "amazonaws",
+            "com"
+        ],
+        "subdomain": "freertos",
+        "partials": [
+            "freertos"
+        ],
+        "domain": "freertos.amazonaws.com"
+    },
+    "fsx.amazonaws.com": {
+        "base": "fsx",
+        "fqdn": [
+            "fsx",
+            "amazonaws",
+            "com"
+        ],
+        "subdomain": "fsx",
+        "partials": [
+            "fsx"
+        ],
+        "domain": "fsx.amazonaws.com"
+    },
+    "galaxy.amazonaws.com": {
+        "base": "galaxy",
+        "fqdn": [
+            "galaxy",
+            "amazonaws",
+            "com"
+        ],
+        "subdomain": "galaxy",
+        "partials": [
+            "galaxy"
+        ],
+        "domain": "galaxy.amazonaws.com"
+    },
+    "gamelift.amazonaws.com": {
+        "base": "gamelift",
+        "fqdn": [
+            "gamelift",
+            "amazonaws",
+            "com"
+        ],
+        "subdomain": "gamelift",
+        "partials": [
+            "gamelift"
+        ],
+        "domain": "gamelift.amazonaws.com"
+    },
+    "glacier.amazonaws.com": {
+        "base": "glacier",
+        "fqdn": [
+            "glacier",
+            "amazonaws",
+            "com"
+        ],
+        "subdomain": "glacier",
+        "partials": [
+            "glacier"
+        ],
+        "domain": "glacier.amazonaws.com"
+    },
+    "globalaccelerator.amazonaws.com": {
+        "base": "globalaccelerator",
+        "fqdn": [
+            "globalaccelerator",
+            "amazonaws",
+            "com"
+        ],
+        "subdomain": "globalaccelerator",
+        "partials": [
+            "globalaccelerator"
+        ],
+        "domain": "globalaccelerator.amazonaws.com"
+    },
+    "glue.amazonaws.com": {
+        "base": "glue",
+        "fqdn": [
+            "glue",
+            "amazonaws",
+            "com"
+        ],
+        "subdomain": "glue",
+        "partials": [
+            "glue"
+        ],
+        "domain": "glue.amazonaws.com"
+    },
+    "greengrass.amazonaws.com": {
+        "base": "greengrass",
+        "fqdn": [
+            "greengrass",
+            "amazonaws",
+            "com"
+        ],
+        "subdomain": "greengrass",
+        "partials": [
+            "greengrass"
+        ],
+        "domain": "greengrass.amazonaws.com"
+    },
+    "guardduty.amazonaws.com": {
+        "base": "guardduty",
+        "fqdn": [
+            "guardduty",
+            "amazonaws",
+            "com"
+        ],
+        "subdomain": "guardduty",
+        "partials": [
+            "guardduty"
+        ],
+        "domain": "guardduty.amazonaws.com"
+    },
+    "health.amazonaws.com": {
+        "base": "health",
+        "fqdn": [
+            "health",
+            "amazonaws",
+            "com"
+        ],
+        "subdomain": "health",
+        "partials": [
+            "health"
+        ],
+        "domain": "health.amazonaws.com"
+    },
+    "honeycode.amazonaws.com": {
+        "base": "honeycode",
+        "fqdn": [
+            "honeycode",
+            "amazonaws",
+            "com"
+        ],
+        "subdomain": "honeycode",
+        "partials": [
+            "honeycode"
+        ],
+        "domain": "honeycode.amazonaws.com"
+    },
+    "hooks.cloudformation.amazonaws.com": {
+        "base": "hooks",
+        "fqdn": [
+            "hooks",
+            "cloudformation",
+            "amazonaws",
+            "com"
+        ],
+        "subdomain": "hooks",
+        "partials": [
+            "hooks"
+        ],
+        "domain": "hooks.cloudformation.amazonaws.com"
+    },
+    "iam.amazonaws.com": {
+        "base": "iam",
+        "fqdn": [
+            "iam",
+            "amazonaws",
+            "com"
+        ],
+        "subdomain": "iam",
+        "partials": [
+            "iam"
+        ],
+        "domain": "iam.amazonaws.com"
+    },
+    "imagebuilder.amazonaws.com": {
+        "base": "imagebuilder",
+        "fqdn": [
+            "imagebuilder",
+            "amazonaws",
+            "com"
+        ],
+        "subdomain": "imagebuilder",
+        "partials": [
+            "imagebuilder"
+        ],
+        "domain": "imagebuilder.amazonaws.com"
+    },
+    "importexport.amazonaws.com": {
+        "base": "importexport",
+        "fqdn": [
+            "importexport",
+            "amazonaws",
+            "com"
+        ],
+        "subdomain": "importexport",
+        "partials": [
+            "importexport"
+        ],
+        "domain": "importexport.amazonaws.com"
+    },
+    "inspector.amazonaws.com": {
+        "base": "inspector",
+        "fqdn": [
+            "inspector",
+            "amazonaws",
+            "com"
+        ],
+        "subdomain": "inspector",
+        "partials": [
+            "inspector"
+        ],
+        "domain": "inspector.amazonaws.com"
+    },
+    "inspector2.amazonaws.com": {
+        "base": "inspector2",
+        "fqdn": [
+            "inspector2",
+            "amazonaws",
+            "com"
+        ],
+        "subdomain": "inspector2",
+        "partials": [
+            "inspector2"
+        ],
+        "domain": "inspector2.amazonaws.com"
+    },
+    "iot.amazonaws.com": {
+        "base": "iot",
+        "fqdn": [
+            "iot",
+            "amazonaws",
+            "com"
+        ],
+        "subdomain": "iot",
+        "partials": [
+            "iot"
+        ],
+        "domain": "iot.amazonaws.com"
+    },
+    "iotanalytics.amazonaws.com": {
+        "base": "iotanalytics",
+        "fqdn": [
+            "iotanalytics",
+            "amazonaws",
+            "com"
+        ],
+        "subdomain": "iotanalytics",
+        "partials": [
+            "iotanalytics"
+        ],
+        "domain": "iotanalytics.amazonaws.com"
+    },
+    "iotevents.amazonaws.com": {
+        "base": "iotevents",
+        "fqdn": [
+            "iotevents",
+            "amazonaws",
+            "com"
+        ],
+        "subdomain": "iotevents",
+        "partials": [
+            "iotevents"
+        ],
+        "domain": "iotevents.amazonaws.com"
+    },
+    "iotsitewise.amazonaws.com": {
+        "base": "iotsitewise",
+        "fqdn": [
+            "iotsitewise",
+            "amazonaws",
+            "com"
+        ],
+        "subdomain": "iotsitewise",
+        "partials": [
+            "iotsitewise"
+        ],
+        "domain": "iotsitewise.amazonaws.com"
+    },
+    "iotthingsgraph.amazonaws.com": {
+        "base": "iotthingsgraph",
+        "fqdn": [
+            "iotthingsgraph",
+            "amazonaws",
+            "com"
+        ],
+        "subdomain": "iotthingsgraph",
+        "partials": [
+            "iotthingsgraph"
+        ],
+        "domain": "iotthingsgraph.amazonaws.com"
+    },
+    "ivs.amazonaws.com": {
+        "base": "ivs",
+        "fqdn": [
+            "ivs",
+            "amazonaws",
+            "com"
+        ],
+        "subdomain": "ivs",
+        "partials": [
+            "ivs"
+        ],
+        "domain": "ivs.amazonaws.com"
+    },
+    "jellyfish.amazonaws.com": {
+        "base": "jellyfish",
+        "fqdn": [
+            "jellyfish",
+            "amazonaws",
+            "com"
+        ],
+        "subdomain": "jellyfish",
+        "partials": [
+            "jellyfish"
+        ],
+        "domain": "jellyfish.amazonaws.com"
+    },
+    "kafka.amazonaws.com": {
+        "base": "kafka",
+        "fqdn": [
+            "kafka",
+            "amazonaws",
+            "com"
+        ],
+        "subdomain": "kafka",
+        "partials": [
+            "kafka"
+        ],
+        "domain": "kafka.amazonaws.com"
+    },
+    "kinesis.amazonaws.com": {
+        "base": "kinesis",
+        "fqdn": [
+            "kinesis",
+            "amazonaws",
+            "com"
+        ],
+        "subdomain": "kinesis",
+        "partials": [
+            "kinesis"
+        ],
+        "domain": "kinesis.amazonaws.com"
+    },
+    "kinesis.{us-gov-region}.amazonaws.com": {
+        "base": "kinesis",
+        "fqdn": [
+            "kinesis",
+            "{us-gov-region}",
+            "amazonaws",
+            "com"
+        ],
+        "subdomain": "kinesis",
+        "partials": [
+            "kinesis"
+        ],
+        "domain": "kinesis.{us-gov-region}.amazonaws.com"
+    },
+    "kinesisanalytics.amazonaws.com": {
+        "base": "kinesisanalytics",
+        "fqdn": [
+            "kinesisanalytics",
+            "amazonaws",
+            "com"
+        ],
+        "subdomain": "kinesisanalytics",
+        "partials": [
+            "kinesisanalytics"
+        ],
+        "domain": "kinesisanalytics.amazonaws.com"
+    },
+    "kms.amazonaws.com": {
+        "base": "kms",
+        "fqdn": [
+            "kms",
+            "amazonaws",
+            "com"
+        ],
+        "subdomain": "kms",
+        "partials": [
+            "kms"
+        ],
+        "domain": "kms.amazonaws.com"
+    },
+    "lakeformation.amazonaws.com": {
+        "base": "lakeformation",
+        "fqdn": [
+            "lakeformation",
+            "amazonaws",
+            "com"
+        ],
+        "subdomain": "lakeformation",
+        "partials": [
+            "lakeformation"
+        ],
+        "domain": "lakeformation.amazonaws.com"
+    },
+    "lambda.amazonaws.com": {
+        "base": "lambda",
+        "fqdn": [
+            "lambda",
+            "amazonaws",
+            "com"
+        ],
+        "subdomain": "lambda",
+        "partials": [
+            "lambda"
+        ],
+        "domain": "lambda.amazonaws.com"
+    },
+    "lex.amazonaws.com": {
+        "base": "lex",
+        "fqdn": [
+            "lex",
+            "amazonaws",
+            "com"
+        ],
+        "subdomain": "lex",
+        "partials": [
+            "lex"
+        ],
+        "domain": "lex.amazonaws.com"
+    },
+    "license-manager.amazonaws.com": {
+        "base": "license",
+        "fqdn": [
+            "license-manager",
+            "amazonaws",
+            "com"
+        ],
+        "subdomain": "license-manager",
+        "partials": [
+            "license",
+            "manager"
+        ],
+        "domain": "license-manager.amazonaws.com"
+    },
+    "lightsail.amazonaws.com": {
+        "base": "lightsail",
+        "fqdn": [
+            "lightsail",
+            "amazonaws",
+            "com"
+        ],
+        "subdomain": "lightsail",
+        "partials": [
+            "lightsail"
+        ],
+        "domain": "lightsail.amazonaws.com"
+    },
+    "logger.cloudfront.amazonaws.com": {
+        "base": "logger",
+        "fqdn": [
+            "logger",
+            "cloudfront",
+            "amazonaws",
+            "com"
+        ],
+        "subdomain": "logger",
+        "partials": [
+            "logger"
+        ],
+        "domain": "logger.cloudfront.amazonaws.com"
+    },
+    "logs.amazonaws.com": {
+        "base": "logs",
+        "fqdn": [
+            "logs",
+            "amazonaws",
+            "com"
+        ],
+        "subdomain": "logs",
+        "partials": [
+            "logs"
+        ],
+        "domain": "logs.amazonaws.com"
+    },
+    "machinelearning.amazonaws.com": {
+        "base": "machinelearning",
+        "fqdn": [
+            "machinelearning",
+            "amazonaws",
+            "com"
+        ],
+        "subdomain": "machinelearning",
+        "partials": [
+            "machinelearning"
+        ],
+        "domain": "machinelearning.amazonaws.com"
+    },
+    "macie.amazonaws.com": {
+        "base": "macie",
+        "fqdn": [
+            "macie",
+            "amazonaws",
+            "com"
+        ],
+        "subdomain": "macie",
+        "partials": [
+            "macie"
+        ],
+        "domain": "macie.amazonaws.com"
+    },
+    "managedblockchain.amazonaws.com": {
+        "base": "managedblockchain",
+        "fqdn": [
+            "managedblockchain",
+            "amazonaws",
+            "com"
+        ],
+        "subdomain": "managedblockchain",
+        "partials": [
+            "managedblockchain"
+        ],
+        "domain": "managedblockchain.amazonaws.com"
+    },
+    "managedservices.amazonaws.com": {
+        "base": "managedservices",
+        "fqdn": [
+            "managedservices",
+            "amazonaws",
+            "com"
+        ],
+        "subdomain": "managedservices",
+        "partials": [
+            "managedservices"
+        ],
+        "domain": "managedservices.amazonaws.com"
+    },
+    "mediaconnect.amazonaws.com": {
+        "base": "mediaconnect",
+        "fqdn": [
+            "mediaconnect",
+            "amazonaws",
+            "com"
+        ],
+        "subdomain": "mediaconnect",
+        "partials": [
+            "mediaconnect"
+        ],
+        "domain": "mediaconnect.amazonaws.com"
+    },
+    "mediaconvert.amazonaws.com": {
+        "base": "mediaconvert",
+        "fqdn": [
+            "mediaconvert",
+            "amazonaws",
+            "com"
+        ],
+        "subdomain": "mediaconvert",
+        "partials": [
+            "mediaconvert"
+        ],
+        "domain": "mediaconvert.amazonaws.com"
+    },
+    "mediapackage.amazonaws.com": {
+        "base": "mediapackage",
+        "fqdn": [
+            "mediapackage",
+            "amazonaws",
+            "com"
+        ],
+        "subdomain": "mediapackage",
+        "partials": [
+            "mediapackage"
+        ],
+        "domain": "mediapackage.amazonaws.com"
+    },
+    "mediastore.amazonaws.com": {
+        "base": "mediastore",
+        "fqdn": [
+            "mediastore",
+            "amazonaws",
+            "com"
+        ],
+        "subdomain": "mediastore",
+        "partials": [
+            "mediastore"
+        ],
+        "domain": "mediastore.amazonaws.com"
+    },
+    "mediatailor.amazonaws.com": {
+        "base": "mediatailor",
+        "fqdn": [
+            "mediatailor",
+            "amazonaws",
+            "com"
+        ],
+        "subdomain": "mediatailor",
+        "partials": [
+            "mediatailor"
+        ],
+        "domain": "mediatailor.amazonaws.com"
+    },
+    "member.org.stacksets.cloudformation.amazonaws.com": {
+        "base": "member",
+        "fqdn": [
+            "member",
+            "org",
+            "stacksets",
+            "cloudformation",
+            "amazonaws",
+            "com"
+        ],
+        "subdomain": "member",
+        "partials": [
+            "member"
+        ],
+        "domain": "member.org.stacksets.cloudformation.amazonaws.com"
+    },
+    "metering-marketplace.amazonaws.com": {
+        "base": "metering",
+        "fqdn": [
+            "metering-marketplace",
+            "amazonaws",
+            "com"
+        ],
+        "subdomain": "metering-marketplace",
+        "partials": [
+            "metering",
+            "marketplace"
+        ],
+        "domain": "metering-marketplace.amazonaws.com"
+    },
+    "mgn.amazonaws.com": {
+        "base": "mgn",
+        "fqdn": [
+            "mgn",
+            "amazonaws",
+            "com"
+        ],
+        "subdomain": "mgn",
+        "partials": [
+            "mgn"
+        ],
+        "domain": "mgn.amazonaws.com"
+    },
+    "migrationhub.amazonaws.com": {
+        "base": "migrationhub",
+        "fqdn": [
+            "migrationhub",
+            "amazonaws",
+            "com"
+        ],
+        "subdomain": "migrationhub",
+        "partials": [
+            "migrationhub"
+        ],
+        "domain": "migrationhub.amazonaws.com"
+    },
+    "mobileanalytics.amazonaws.com": {
+        "base": "mobileanalytics",
+        "fqdn": [
+            "mobileanalytics",
+            "amazonaws",
+            "com"
+        ],
+        "subdomain": "mobileanalytics",
+        "partials": [
+            "mobileanalytics"
+        ],
+        "domain": "mobileanalytics.amazonaws.com"
+    },
+    "mobilehub.amazonaws.com": {
+        "base": "mobilehub",
+        "fqdn": [
+            "mobilehub",
+            "amazonaws",
+            "com"
+        ],
+        "subdomain": "mobilehub",
+        "partials": [
+            "mobilehub"
+        ],
+        "domain": "mobilehub.amazonaws.com"
+    },
+    "monitoring.amazonaws.com": {
+        "base": "monitoring",
+        "fqdn": [
+            "monitoring",
+            "amazonaws",
+            "com"
+        ],
+        "subdomain": "monitoring",
+        "partials": [
+            "monitoring"
+        ],
+        "domain": "monitoring.amazonaws.com"
+    },
+    "monitoring.rds.amazonaws.com": {
+        "base": "monitoring",
+        "fqdn": [
+            "monitoring",
+            "rds",
+            "amazonaws",
+            "com"
+        ],
+        "subdomain": "monitoring",
+        "partials": [
+            "monitoring"
+        ],
+        "domain": "monitoring.rds.amazonaws.com"
+    },
+    "mq.amazonaws.com": {
+        "base": "mq",
+        "fqdn": [
+            "mq",
+            "amazonaws",
+            "com"
+        ],
+        "subdomain": "mq",
+        "partials": [
+            "mq"
+        ],
+        "domain": "mq.amazonaws.com"
+    },
+    "network-firewall.amazonaws.com": {
+        "base": "network",
+        "fqdn": [
+            "network-firewall",
+            "amazonaws",
+            "com"
+        ],
+        "subdomain": "network-firewall",
+        "partials": [
+            "network",
+            "firewall"
+        ],
+        "domain": "network-firewall.amazonaws.com"
+    },
+    "ops.apigateway.amazonaws.com": {
+        "base": "ops",
+        "fqdn": [
+            "ops",
+            "apigateway",
+            "amazonaws",
+            "com"
+        ],
+        "subdomain": "ops",
+        "partials": [
+            "ops"
+        ],
+        "domain": "ops.apigateway.amazonaws.com"
+    },
+    "opsdatasync.ssm.amazonaws.com": {
+        "base": "opsdatasync",
+        "fqdn": [
+            "opsdatasync",
+            "ssm",
+            "amazonaws",
+            "com"
+        ],
+        "subdomain": "opsdatasync",
+        "partials": [
+            "opsdatasync"
+        ],
+        "domain": "opsdatasync.ssm.amazonaws.com"
+    },
+    "opsworks-cm.amazonaws.com": {
+        "base": "opsworks",
+        "fqdn": [
+            "opsworks-cm",
+            "amazonaws",
+            "com"
+        ],
+        "subdomain": "opsworks-cm",
+        "partials": [
+            "opsworks",
+            "cm"
+        ],
+        "domain": "opsworks-cm.amazonaws.com"
+    },
+    "opsworks.amazonaws.com": {
+        "base": "opsworks",
+        "fqdn": [
+            "opsworks",
+            "amazonaws",
+            "com"
+        ],
+        "subdomain": "opsworks",
+        "partials": [
+            "opsworks"
+        ],
+        "domain": "opsworks.amazonaws.com"
+    },
+    "organizations.amazonaws.com": {
+        "base": "organizations",
+        "fqdn": [
+            "organizations",
+            "amazonaws",
+            "com"
+        ],
+        "subdomain": "organizations",
+        "partials": [
+            "organizations"
+        ],
+        "domain": "organizations.amazonaws.com"
+    },
+    "personalize.amazonaws.com": {
+        "base": "personalize",
+        "fqdn": [
+            "personalize",
+            "amazonaws",
+            "com"
+        ],
+        "subdomain": "personalize",
+        "partials": [
+            "personalize"
+        ],
+        "domain": "personalize.amazonaws.com"
+    },
+    "pinpoint.amazonaws.com": {
+        "base": "pinpoint",
+        "fqdn": [
+            "pinpoint",
+            "amazonaws",
+            "com"
+        ],
+        "subdomain": "pinpoint",
+        "partials": [
+            "pinpoint"
+        ],
+        "domain": "pinpoint.amazonaws.com"
+    },
+    "polly.amazonaws.com": {
+        "base": "polly",
+        "fqdn": [
+            "polly",
+            "amazonaws",
+            "com"
+        ],
+        "subdomain": "polly",
+        "partials": [
+            "polly"
+        ],
+        "domain": "polly.amazonaws.com"
+    },
+    "purchaseorders.amazonaws.com": {
+        "base": "purchaseorders",
+        "fqdn": [
+            "purchaseorders",
+            "amazonaws",
+            "com"
+        ],
+        "subdomain": "purchaseorders",
+        "partials": [
+            "purchaseorders"
+        ],
+        "domain": "purchaseorders.amazonaws.com"
+    },
+    "qldb.amazonaws.com": {
+        "base": "qldb",
+        "fqdn": [
+            "qldb",
+            "amazonaws",
+            "com"
+        ],
+        "subdomain": "qldb",
+        "partials": [
+            "qldb"
+        ],
+        "domain": "qldb.amazonaws.com"
+    },
+    "quicksight.amazonaws.com": {
+        "base": "quicksight",
+        "fqdn": [
+            "quicksight",
+            "amazonaws",
+            "com"
+        ],
+        "subdomain": "quicksight",
+        "partials": [
+            "quicksight"
+        ],
+        "domain": "quicksight.amazonaws.com"
+    },
+    "ram.amazonaws.com": {
+        "base": "ram",
+        "fqdn": [
+            "ram",
+            "amazonaws",
+            "com"
+        ],
+        "subdomain": "ram",
+        "partials": [
+            "ram"
+        ],
+        "domain": "ram.amazonaws.com"
+    },
+    "rds-preview.amazonaws.com": {
+        "base": "rds",
+        "fqdn": [
+            "rds-preview",
+            "amazonaws",
+            "com"
+        ],
+        "subdomain": "rds-preview",
+        "partials": [
+            "rds",
+            "preview"
+        ],
+        "domain": "rds-preview.amazonaws.com"
+    },
+    "rds.amazonaws.com": {
+        "base": "rds",
+        "fqdn": [
+            "rds",
+            "amazonaws",
+            "com"
+        ],
+        "subdomain": "rds",
+        "partials": [
+            "rds"
+        ],
+        "domain": "rds.amazonaws.com"
+    },
+    "redshift.amazonaws.com": {
+        "base": "redshift",
+        "fqdn": [
+            "redshift",
+            "amazonaws",
+            "com"
+        ],
+        "subdomain": "redshift",
+        "partials": [
+            "redshift"
+        ],
+        "domain": "redshift.amazonaws.com"
+    },
+    "region.elasticache-snapshot.amazonaws.com": {
+        "base": "region",
+        "fqdn": [
+            "region",
+            "elasticache-snapshot",
+            "amazonaws",
+            "com"
+        ],
+        "subdomain": "region",
+        "partials": [
+            "region"
+        ],
+        "domain": "region.elasticache-snapshot.amazonaws.com"
+    },
+    "rekognition.amazonaws.com": {
+        "base": "rekognition",
+        "fqdn": [
+            "rekognition",
+            "amazonaws",
+            "com"
+        ],
+        "subdomain": "rekognition",
+        "partials": [
+            "rekognition"
+        ],
+        "domain": "rekognition.amazonaws.com"
+    },
+    "replication.dynamodb.amazonaws.com": {
+        "base": "replication",
+        "fqdn": [
+            "replication",
+            "dynamodb",
+            "amazonaws",
+            "com"
+        ],
+        "subdomain": "replication",
+        "partials": [
+            "replication"
+        ],
+        "domain": "replication.dynamodb.amazonaws.com"
+    },
+    "replicator.lambda.amazonaws.com": {
+        "base": "replicator",
+        "fqdn": [
+            "replicator",
+            "lambda",
+            "amazonaws",
+            "com"
+        ],
+        "subdomain": "replicator",
+        "partials": [
+            "replicator"
+        ],
+        "domain": "replicator.lambda.amazonaws.com"
+    },
+    "resource-groups.amazonaws.com": {
+        "base": "resource",
+        "fqdn": [
+            "resource-groups",
+            "amazonaws",
+            "com"
+        ],
+        "subdomain": "resource-groups",
+        "partials": [
+            "resource",
+            "groups"
+        ],
+        "domain": "resource-groups.amazonaws.com"
+    },
+    "resource.cloudformation.amazonaws.com": {
+        "base": "resource",
+        "fqdn": [
+            "resource",
+            "cloudformation",
+            "amazonaws",
+            "com"
+        ],
+        "subdomain": "resource",
+        "partials": [
+            "resource"
+        ],
+        "domain": "resource.cloudformation.amazonaws.com"
+    },
+    "robomaker.amazonaws.com": {
+        "base": "robomaker",
+        "fqdn": [
+            "robomaker",
+            "amazonaws",
+            "com"
+        ],
+        "subdomain": "robomaker",
+        "partials": [
+            "robomaker"
+        ],
+        "domain": "robomaker.amazonaws.com"
+    },
+    "route53.amazonaws.com": {
+        "base": "route53",
+        "fqdn": [
+            "route53",
+            "amazonaws",
+            "com"
+        ],
+        "subdomain": "route53",
+        "partials": [
+            "route53"
+        ],
+        "domain": "route53.amazonaws.com"
+    },
+    "route53domains.amazonaws.com": {
+        "base": "route53domains",
+        "fqdn": [
+            "route53domains",
+            "amazonaws",
+            "com"
+        ],
+        "subdomain": "route53domains",
+        "partials": [
+            "route53domains"
+        ],
+        "domain": "route53domains.amazonaws.com"
+    },
+    "route53resolver.amazonaws.com": {
+        "base": "route53resolver",
+        "fqdn": [
+            "route53resolver",
+            "amazonaws",
+            "com"
+        ],
+        "subdomain": "route53resolver",
+        "partials": [
+            "route53resolver"
+        ],
+        "domain": "route53resolver.amazonaws.com"
+    },
+    "s3.amazonaws.com": {
+        "base": "s3",
+        "fqdn": [
+            "s3",
+            "amazonaws",
+            "com"
+        ],
+        "subdomain": "s3",
+        "partials": [
+            "s3"
+        ],
+        "domain": "s3.amazonaws.com"
+    },
+    "sagemaker.amazonaws.com": {
+        "base": "sagemaker",
+        "fqdn": [
+            "sagemaker",
+            "amazonaws",
+            "com"
+        ],
+        "subdomain": "sagemaker",
+        "partials": [
+            "sagemaker"
+        ],
+        "domain": "sagemaker.amazonaws.com"
+    },
+    "secretsmanager.amazonaws.com": {
+        "base": "secretsmanager",
+        "fqdn": [
+            "secretsmanager",
+            "amazonaws",
+            "com"
+        ],
+        "subdomain": "secretsmanager",
+        "partials": [
+            "secretsmanager"
+        ],
+        "domain": "secretsmanager.amazonaws.com"
+    },
+    "securityhub.amazonaws.com": {
+        "base": "securityhub",
+        "fqdn": [
+            "securityhub",
+            "amazonaws",
+            "com"
+        ],
+        "subdomain": "securityhub",
+        "partials": [
+            "securityhub"
+        ],
+        "domain": "securityhub.amazonaws.com"
+    },
+    "serverlessrepo.amazonaws.com": {
+        "base": "serverlessrepo",
+        "fqdn": [
+            "serverlessrepo",
+            "amazonaws",
+            "com"
+        ],
+        "subdomain": "serverlessrepo",
+        "partials": [
+            "serverlessrepo"
+        ],
+        "domain": "serverlessrepo.amazonaws.com"
+    },
+    "servicecatalog-appregistry.amazonaws.com": {
+        "base": "servicecatalog",
+        "fqdn": [
+            "servicecatalog-appregistry",
+            "amazonaws",
+            "com"
+        ],
+        "subdomain": "servicecatalog-appregistry",
+        "partials": [
+            "servicecatalog",
+            "appregistry"
+        ],
+        "domain": "servicecatalog-appregistry.amazonaws.com"
+    },
+    "servicecatalog.amazonaws.com": {
+        "base": "servicecatalog",
+        "fqdn": [
+            "servicecatalog",
+            "amazonaws",
+            "com"
+        ],
+        "subdomain": "servicecatalog",
+        "partials": [
+            "servicecatalog"
+        ],
+        "domain": "servicecatalog.amazonaws.com"
+    },
+    "servicediscovery.amazonaws.com": {
+        "base": "servicediscovery",
+        "fqdn": [
+            "servicediscovery",
+            "amazonaws",
+            "com"
+        ],
+        "subdomain": "servicediscovery",
+        "partials": [
+            "servicediscovery"
+        ],
+        "domain": "servicediscovery.amazonaws.com"
+    },
+    "ses.amazonaws.com": {
+        "base": "ses",
+        "fqdn": [
+            "ses",
+            "amazonaws",
+            "com"
+        ],
+        "subdomain": "ses",
+        "partials": [
+            "ses"
+        ],
+        "domain": "ses.amazonaws.com"
+    },
+    "shield.amazonaws.com": {
+        "base": "shield",
+        "fqdn": [
+            "shield",
+            "amazonaws",
+            "com"
+        ],
+        "subdomain": "shield",
+        "partials": [
+            "shield"
+        ],
+        "domain": "shield.amazonaws.com"
+    },
+    "signer.amazonaws.com": {
+        "base": "signer",
+        "fqdn": [
+            "signer",
+            "amazonaws",
+            "com"
+        ],
+        "subdomain": "signer",
+        "partials": [
+            "signer"
+        ],
+        "domain": "signer.amazonaws.com"
+    },
+    "signin.amazonaws.com": {
+        "base": "signin",
+        "fqdn": [
+            "signin",
+            "amazonaws",
+            "com"
+        ],
+        "subdomain": "signin",
+        "partials": [
+            "signin"
+        ],
+        "domain": "signin.amazonaws.com"
+    },
+    "sms.amazonaws.com": {
+        "base": "sms",
+        "fqdn": [
+            "sms",
+            "amazonaws",
+            "com"
+        ],
+        "subdomain": "sms",
+        "partials": [
+            "sms"
+        ],
+        "domain": "sms.amazonaws.com"
+    },
+    "sns.amazonaws.com": {
+        "base": "sns",
+        "fqdn": [
+            "sns",
+            "amazonaws",
+            "com"
+        ],
+        "subdomain": "sns",
+        "partials": [
+            "sns"
+        ],
+        "domain": "sns.amazonaws.com"
+    },
+    "spotfleet.amazonaws.com": {
+        "base": "spotfleet",
+        "fqdn": [
+            "spotfleet",
+            "amazonaws",
+            "com"
+        ],
+        "subdomain": "spotfleet",
+        "partials": [
+            "spotfleet"
+        ],
+        "domain": "spotfleet.amazonaws.com"
+    },
+    "sqs.amazonaws.com": {
+        "base": "sqs",
+        "fqdn": [
+            "sqs",
+            "amazonaws",
+            "com"
+        ],
+        "subdomain": "sqs",
+        "partials": [
+            "sqs"
+        ],
+        "domain": "sqs.amazonaws.com"
+    },
+    "ssm-incidents.amazonaws.com": {
+        "base": "ssm",
+        "fqdn": [
+            "ssm-incidents",
+            "amazonaws",
+            "com"
+        ],
+        "subdomain": "ssm-incidents",
+        "partials": [
+            "ssm",
+            "incidents"
+        ],
+        "domain": "ssm-incidents.amazonaws.com"
+    },
+    "ssm.amazonaws.com": {
+        "base": "ssm",
+        "fqdn": [
+            "ssm",
+            "amazonaws",
+            "com"
+        ],
+        "subdomain": "ssm",
+        "partials": [
+            "ssm"
+        ],
+        "domain": "ssm.amazonaws.com"
+    },
+    "sso.amazonaws.com": {
+        "base": "sso",
+        "fqdn": [
+            "sso",
+            "amazonaws",
+            "com"
+        ],
+        "subdomain": "sso",
+        "partials": [
+            "sso"
+        ],
+        "domain": "sso.amazonaws.com"
+    },
+    "states.amazonaws.com": {
+        "base": "states",
+        "fqdn": [
+            "states",
+            "amazonaws",
+            "com"
+        ],
+        "subdomain": "states",
+        "partials": [
+            "states"
+        ],
+        "domain": "states.amazonaws.com"
+    },
+    "storage-lens.s3.amazonaws.com": {
+        "base": "storage",
+        "fqdn": [
+            "storage-lens",
+            "s3",
+            "amazonaws",
+            "com"
+        ],
+        "subdomain": "storage-lens",
+        "partials": [
+            "storage",
+            "lens"
+        ],
+        "domain": "storage-lens.s3.amazonaws.com"
+    },
+    "storagegateway.amazonaws.com": {
+        "base": "storagegateway",
+        "fqdn": [
+            "storagegateway",
+            "amazonaws",
+            "com"
+        ],
+        "subdomain": "storagegateway",
+        "partials": [
+            "storagegateway"
+        ],
+        "domain": "storagegateway.amazonaws.com"
+    },
+    "streams.metrics.cloudwatch.amazonaws.com": {
+        "base": "streams",
+        "fqdn": [
+            "streams",
+            "metrics",
+            "cloudwatch",
+            "amazonaws",
+            "com"
+        ],
+        "subdomain": "streams",
+        "partials": [
+            "streams"
+        ],
+        "domain": "streams.metrics.cloudwatch.amazonaws.com"
+    },
+    "sts.amazonaws.com": {
+        "base": "sts",
+        "fqdn": [
+            "sts",
+            "amazonaws",
+            "com"
+        ],
+        "subdomain": "sts",
+        "partials": [
+            "sts"
+        ],
+        "domain": "sts.amazonaws.com"
+    },
+    "support.amazonaws.com": {
+        "base": "support",
+        "fqdn": [
+            "support",
+            "amazonaws",
+            "com"
+        ],
+        "subdomain": "support",
+        "partials": [
+            "support"
+        ],
+        "domain": "support.amazonaws.com"
+    },
+    "swf.amazonaws.com": {
+        "base": "swf",
+        "fqdn": [
+            "swf",
+            "amazonaws",
+            "com"
+        ],
+        "subdomain": "swf",
+        "partials": [
+            "swf"
+        ],
+        "domain": "swf.amazonaws.com"
+    },
+    "tagging.amazonaws.com": {
+        "base": "tagging",
+        "fqdn": [
+            "tagging",
+            "amazonaws",
+            "com"
+        ],
+        "subdomain": "tagging",
+        "partials": [
+            "tagging"
+        ],
+        "domain": "tagging.amazonaws.com"
+    },
+    "tagpolicies.tag.amazonaws.com": {
+        "base": "tagpolicies",
+        "fqdn": [
+            "tagpolicies",
+            "tag",
+            "amazonaws",
+            "com"
+        ],
+        "subdomain": "tagpolicies",
+        "partials": [
+            "tagpolicies"
+        ],
+        "domain": "tagpolicies.tag.amazonaws.com"
+    },
+    "tasks.apprunner.amazonaws.com": {
+        "base": "tasks",
+        "fqdn": [
+            "tasks",
+            "apprunner",
+            "amazonaws",
+            "com"
+        ],
+        "subdomain": "tasks",
+        "partials": [
+            "tasks"
+        ],
+        "domain": "tasks.apprunner.amazonaws.com"
+    },
+    "textract.amazonaws.com": {
+        "base": "textract",
+        "fqdn": [
+            "textract",
+            "amazonaws",
+            "com"
+        ],
+        "subdomain": "textract",
+        "partials": [
+            "textract"
+        ],
+        "domain": "textract.amazonaws.com"
+    },
+    "timestream.amazonaws.com": {
+        "base": "timestream",
+        "fqdn": [
+            "timestream",
+            "amazonaws",
+            "com"
+        ],
+        "subdomain": "timestream",
+        "partials": [
+            "timestream"
+        ],
+        "domain": "timestream.amazonaws.com"
+    },
+    "transcribe.amazonaws.com": {
+        "base": "transcribe",
+        "fqdn": [
+            "transcribe",
+            "amazonaws",
+            "com"
+        ],
+        "subdomain": "transcribe",
+        "partials": [
+            "transcribe"
+        ],
+        "domain": "transcribe.amazonaws.com"
+    },
+    "transfer.amazonaws.com": {
+        "base": "transfer",
+        "fqdn": [
+            "transfer",
+            "amazonaws",
+            "com"
+        ],
+        "subdomain": "transfer",
+        "partials": [
+            "transfer"
+        ],
+        "domain": "transfer.amazonaws.com"
+    },
+    "transitgateway.amazonaws.com": {
+        "base": "transitgateway",
+        "fqdn": [
+            "transitgateway",
+            "amazonaws",
+            "com"
+        ],
+        "subdomain": "transitgateway",
+        "partials": [
+            "transitgateway"
+        ],
+        "domain": "transitgateway.amazonaws.com"
+    },
+    "translate.amazonaws.com": {
+        "base": "translate",
+        "fqdn": [
+            "translate",
+            "amazonaws",
+            "com"
+        ],
+        "subdomain": "translate",
+        "partials": [
+            "translate"
+        ],
+        "domain": "translate.amazonaws.com"
+    },
+    "trustedadvisor.amazonaws.com": {
+        "base": "trustedadvisor",
+        "fqdn": [
+            "trustedadvisor",
+            "amazonaws",
+            "com"
+        ],
+        "subdomain": "trustedadvisor",
+        "partials": [
+            "trustedadvisor"
+        ],
+        "domain": "trustedadvisor.amazonaws.com"
+    },
+    "tts.amazonaws.com": {
+        "base": "tts",
+        "fqdn": [
+            "tts",
+            "amazonaws",
+            "com"
+        ],
+        "subdomain": "tts",
+        "partials": [
+            "tts"
+        ],
+        "domain": "tts.amazonaws.com"
+    },
+    "vmie.amazonaws.com": {
+        "base": "vmie",
+        "fqdn": [
+            "vmie",
+            "amazonaws",
+            "com"
+        ],
+        "subdomain": "vmie",
+        "partials": [
+            "vmie"
+        ],
+        "domain": "vmie.amazonaws.com"
+    },
+    "vpc-flow-logs.amazonaws.com": {
+        "base": "vpc",
+        "fqdn": [
+            "vpc-flow-logs",
+            "amazonaws",
+            "com"
+        ],
+        "subdomain": "vpc-flow-logs",
+        "partials": [
+            "vpc",
+            "flow",
+            "logs"
+        ],
+        "domain": "vpc-flow-logs.amazonaws.com"
+    },
+    "waf-regional.amazonaws.com": {
+        "base": "waf",
+        "fqdn": [
+            "waf-regional",
+            "amazonaws",
+            "com"
+        ],
+        "subdomain": "waf-regional",
+        "partials": [
+            "waf",
+            "regional"
+        ],
+        "domain": "waf-regional.amazonaws.com"
+    },
+    "waf.amazonaws.com": {
+        "base": "waf",
+        "fqdn": [
+            "waf",
+            "amazonaws",
+            "com"
+        ],
+        "subdomain": "waf",
+        "partials": [
+            "waf"
+        ],
+        "domain": "waf.amazonaws.com"
+    },
+    "wam.amazonaws.com": {
+        "base": "wam",
+        "fqdn": [
+            "wam",
+            "amazonaws",
+            "com"
+        ],
+        "subdomain": "wam",
+        "partials": [
+            "wam"
+        ],
+        "domain": "wam.amazonaws.com"
+    },
+    "workdocs.amazonaws.com": {
+        "base": "workdocs",
+        "fqdn": [
+            "workdocs",
+            "amazonaws",
+            "com"
+        ],
+        "subdomain": "workdocs",
+        "partials": [
+            "workdocs"
+        ],
+        "domain": "workdocs.amazonaws.com"
+    },
+    "worklink.amazonaws.com": {
+        "base": "worklink",
+        "fqdn": [
+            "worklink",
+            "amazonaws",
+            "com"
+        ],
+        "subdomain": "worklink",
+        "partials": [
+            "worklink"
+        ],
+        "domain": "worklink.amazonaws.com"
+    },
+    "workmail.amazonaws.com": {
+        "base": "workmail",
+        "fqdn": [
+            "workmail",
+            "amazonaws",
+            "com"
+        ],
+        "subdomain": "workmail",
+        "partials": [
+            "workmail"
+        ],
+        "domain": "workmail.amazonaws.com"
+    },
+    "workspaces.amazonaws.com": {
+        "base": "workspaces",
+        "fqdn": [
+            "workspaces",
+            "amazonaws",
+            "com"
+        ],
+        "subdomain": "workspaces",
+        "partials": [
+            "workspaces"
+        ],
+        "domain": "workspaces.amazonaws.com"
+    },
+    "xray.amazonaws.com": {
+        "base": "xray",
+        "fqdn": [
+            "xray",
+            "amazonaws",
+            "com"
+        ],
+        "subdomain": "xray",
+        "partials": [
+            "xray"
+        ],
+        "domain": "xray.amazonaws.com"
+    }
+}
