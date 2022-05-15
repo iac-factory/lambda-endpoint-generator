@@ -1,8 +1,9 @@
 {
-    "name": "lambda-api-gateway-information",
+    "name": "lambda-endpoint-generator",
     "version": "1.0.0",
     "description": "",
     "main": "index.ts",
+    "repository": "https://github.com/iac-factory/lambda-endpoint-generator.git",
     "scripts": {
         "rm": "find . -name \"*.js\" -type f -delete",
         "prestart": "tsc --build tsconfig.json",
@@ -10,12 +11,12 @@
     },
     "dependencies": {
         "@aws-sdk/client-lambda": "^3.90.0",
-        "esm": "^3.2.25"
+        "esm": "^3.2.25",
+        "ts-node": "^10.7.0"
     },
     "devDependencies": {
         "@aws-sdk/types": "^3.78.0",
         "@types/esm": "^3.2.0",
-        "@types/node": "^17.0.32",
-        "ts-node": "^10.7.0"
+        "@types/node": "^17.0.32"
     }
 }
